@@ -1,6 +1,8 @@
 # MyBlog-Springboot
 A personal blog base SpringBooot and semantic UI as java web developing practice.
 
+## Project Details
+https://github.com/Alennnn/-beautiful-blog-by-Spring-Boot
 
 ## Technology Stack
 ### Front End
